@@ -31,7 +31,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/nageCasillas/random-forest.git
-cd random-forest-project
+cd random-forest
 ```
 
 Install the required packages:
